@@ -1,0 +1,28 @@
+.introduce{
+    width: 646px;
+    height: 350px;
+    background-color: #ffffff;
+    float: left;
+    position: absolute;
+    top: 75px;
+    left: 356px;
+    z-index: 10;
+    display: none;
+
+}
+.introduce span{
+    display: block;
+    width: 129px;
+    height: 100%;
+    float: left;
+}
+.clo1 ul{
+    list-style: none;
+}
+.clo1 ul li{
+    flex: 1;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: 15px;
+    color: #858585;
+}

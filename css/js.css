@@ -1,0 +1,15 @@
+.line{
+    border-bottom: 1px solid #2771FA;
+}
+.underline{
+    text-decoration: underline;
+}
+.bor{
+    border: 2px solid #2771FA;
+}
+.bac{
+    background-color: #EAEAEA;
+}
+.removebac{
+    background-color: #ffffff;
+}
